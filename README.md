@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=![Twitter](https://user-images.githubusercontent.com/58011593/151513974-dec88fe6-99d0-4c58-bc27-43303cf0d1e5.gif) width='' alt='Video Walkthrough' />
+<img src=![Twitter](https://user-images.githubusercontent.com/58011593/151513974-dec88fe6-99d0-4c58-bc27-43303cf0d1e5.gif)width=250><br>
 
 
 ## Notes
