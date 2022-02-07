@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=![tweets_1](https://user-images.githubusercontent.com/58011593/152742592-a9ef26dd-adda-4b4b-b008-43103b73cf95.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=![tweets_1](https://user-images.githubusercontent.com/58011593/152742592-a9ef26dd-adda-4b4b-b008-43103b73cf95.gif)width='' alt='Video Walkthrough' />
 
 GIF created with Adobe Primier Pro.
 
